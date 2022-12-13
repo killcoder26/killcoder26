@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python,java,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python,java,nodejs,mongodb,spring,hibernate)](https://skillicons.dev)
 - 👋 Hi, I'm Anurag
 - 👀 I’m interested in learning new skils in Web Dev and Cloud Computing as well as develop projects on them
 - 🌱 I’m currently learning  and creating MERN stack apps.

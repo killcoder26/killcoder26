@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python,java,nodejs,mongodb,spring,hibernate)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python,java,nodejs,mongodb,spring,hibernate)](https://skillicons.dev/)
 - 👋 Hi, I'm Anurag
 - 👀 I’m interested in learning new skils in Full Stack Dev as well as develop projects on them.
 - 🌱 I’m currently learning .NET Framework.

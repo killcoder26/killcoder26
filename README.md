@@ -1,7 +1,7 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python,java,nodejs,mongodb,spring,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python,java,nodejs,mongodb,spring,hibernate)]
 - 👋 Hi, I'm Anurag
-- 👀 I’m interested in learning new skils in Web Dev and Cloud Computing as well as develop projects on them
-- 🌱 I’m currently learning  and creating MERN stack apps.
+- 👀 I’m interested in learning new skils in Full Stack Dev as well as develop projects on them.
+- 🌱 I’m currently learning .NET Framework.
 - 📫 How to reach me anu.bokaro.ak@gmail.com
 
 <!---

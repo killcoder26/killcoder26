@@ -1,7 +1,7 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,cpp,python,java,nodejs,mongodb,spring,hibernate,angular,dotnet,docker,azure)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,cpp,python,java,nodejs,mongodb,spring,hibernate,angular,dotnet,azure)](https://skillicons.dev/)
 - 👋 Hi, I'm Anurag
 - 👀 I’m interested in learning new skils in Full Stack Dev as well as develop projects on them.
-- 🌱 I’m currently learning .NET Framework.
+- 🌱 I’m currently learning NextJS.
 - 📫 How to reach me anu.bokaro.ak@gmail.com
 
 <!---
